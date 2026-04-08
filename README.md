@@ -23,7 +23,7 @@ Each project here reflects my skills in transforming raw data into actionable in
 | [Restaurant-Order-Analysis](https://github.com/cspoojary/Restaurant-Order-Analysis?tab=readme-ov-file) | MySQL | menu performance and customer preferences |
 | [Credit_card_fraud_detection](https://github.com/cspoojary/Credit_card_fraud_detection) | Python, Machine Learning | Machine learning to detect fraudulent activity |
 | [House_Price_prediction](https://github.com/cspoojary/Projects/blob/main/House_Price_prediction/House_Prediction.md)| Python, Machine Learning | Machine learning to detect house price |
-| [Crop Yield Prediction](https://github.com/cspoojary/Projects/blob/main/House_Price_prediction/House_Prediction.md)| Python, Machine Learning | Machine learning to detect house price |
+| [Crop Yield Prediction](https://github.com/cspoojary/Projects/blob/main/House_Price_prediction/House_Prediction.md)| Python, Machine Learning | Machine learning to detect Crop Yield |
 ---
 
 ## 📂 Folder Structure
